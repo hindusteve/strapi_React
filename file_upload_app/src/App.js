@@ -6,7 +6,11 @@ import FileUpload from './components/FileUpload'
 function App() {
   return (
     <div className="App">
-      <FileUpload/>
+      <div className="V_Center">
+
+         <FileUpload/>
+
+      </div>
     </div>
   );
 }
