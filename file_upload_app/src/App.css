@@ -13,3 +13,14 @@
   margin: auto;
   padding: 12px 24px;
 }
+.Progress,
+.Progress_Seek{
+  height: 3px;
+}
+.Progress{
+  background-color: #eee;
+  margin: 24px;
+}
+.Progress_Seek{
+  background-color: green;
+}
